@@ -6,3 +6,4 @@
 - [x] create a clone of the "Index of" website where files and folders will be hosted on `dark web` [[resource]](https://dl3.3rver.org/cdn2/03/series/2017/Money.Heist/S03/)
 - [ ] phishing fake login pages to hack accounts [[resource]](https://www.peertechzpublications.com/articles/figures/TCSIT-6-140-g002.gif)
 - [ ] host a website on esp32 [[resource]](https://randomnerdtutorials.com/esp32-web-server-arduino-ide/)
+- [ ] try to run camera with arduino [[resource]](https://www.walmart.com/ip/Tebru-Camera-Module-DIY-Video-System-USB-Camera-Module-For-Raspberry/315911835)
