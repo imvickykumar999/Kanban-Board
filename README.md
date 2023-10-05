@@ -6,7 +6,7 @@
 
 - [ ] Create a face tracker to stabilize dance moves in reels [[resource]](https://www.geeksforgeeks.org/opencv-python-program-face-detection/)
 - [ ] Phishing fake login pages to hack accounts [[resource]](https://www.peertechzpublications.com/articles/figures/TCSIT-6-140-g002.gif)
-- [ ] Host a website on esp32 [[resource]](https://randomnerdtutorials.com/esp32-web-server-arduino-ide/)
+- [ ] Host a website on esp32 [[randomnerdtutorials]](https://randomnerdtutorials.com/esp32-web-server-arduino-ide/), [[electropeak]](https://electropeak.com/learn/create-a-web-server-w-esp32/)
 - [ ] Try to run the camera with Arduino [[resource]](https://www.walmart.com/ip/Tebru-Camera-Module-DIY-Video-System-USB-Camera-Module-For-Raspberry/315911835)
 - [ ] Create all Machine Learning Flask Projects in `Dark Web` [[resource]](https://machinelearningprojects.net/flask-projects/)
       
