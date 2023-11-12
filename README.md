@@ -9,7 +9,8 @@
 - [ ] Try to run the camera with Arduino [[resource]](https://www.walmart.com/ip/Tebru-Camera-Module-DIY-Video-System-USB-Camera-Module-For-Raspberry/315911835)
 - [ ] Create all Machine Learning Flask Projects in `Dark Web` [[resource]](https://machinelearningprojects.net/flask-projects/)
 - [ ] Upload Package on `PYPI` using API Token [[resource]](https://www.youtube.com/watch?v=adpZGQUYWOc)
-      
+- [ ] Click WASD Keys using JoyStick Arduino to play video games.
+
 <br>
 
     List of completed projects
