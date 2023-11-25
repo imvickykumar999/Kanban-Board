@@ -11,7 +11,7 @@
 - [ ] Upload Package on `PYPI` using API Token [[resource]](https://www.youtube.com/watch?v=adpZGQUYWOc)
 - [ ] Click WASD Keys using JoyStick Arduino to play video games.
 - [ ] Get 2d face of ursina 3d Game [[resource]](https://www.google.com/search?rlz=1C1CHBF_enIN1057IN1057&oq=get+2d+face+of+ursina+3d&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIICAkQABgWGB7SAQkxMjY0MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8&mstk=AUzJOiviUUsNCqeU_uicgYhnhhZJc-paXrOGCCdlgben6NcuTKccUbSNJSo4-SBLPQMRmhCzQDndkqNHela35xhKCiWXXZDBIsRKv8kUsJfhjyFNVKT1nwjOU-GRtorhSMwKV4fLuUbaoZh50VcfIKviKGM57RKao9KmrWfSdneOIWw9&csuir=1&cs=0&csui=1&gsas=1&q=get%202d%20face%20of%20ursina%203d&ved=2ahUKEwjZyuzGy9SCAxVESWwGHYbVAQMQrukKKAB6BAgFEBI&csuio=2&csuip=18)
-- [ ] Hack Credential (`username`/`password`) in Cookies [[resource]](https://www.w3schools.com/js/js_cookies.asp)
+- [ ] Hack Credential (`username`/`password`) in Cookies [[w3s]](https://www.w3schools.com/js/js_cookies.asp) [[gfg]](https://www.geeksforgeeks.org/flask-cookies/)
 
 <br>
 
