@@ -14,7 +14,8 @@
 - [ ] Hack Credential (`username`/`password`) in Cookies [[w3s]](https://www.w3schools.com/js/js_cookies.asp) [[gfg]](https://www.geeksforgeeks.org/flask-cookies/)
 - [ ] Mimic `I am Not a Robot` using Mouse python package.
 - [ ] Affiliate Marketing [[affiliate]](https://affiliate-program.amazon.in/home) [[code]](https://twitter.com/imvickykumar999/status/1743946896685809712)
-- [ ] Add filter like by [`COUNTRY`](https://imvickykumar999.pythonanywhere.com/), ARTICLE, TECH, BUSINESS, etc. [[resource]](https://newsapi.org/v2/top-headlines?country=in&apiKey=5f69434d32434ea8bdb16b347f71cca2) 
+- [ ] Add filter like by [`COUNTRY`](https://imvickykumar999.pythonanywhere.com/), ARTICLE, TECH, BUSINESS, etc. [[resource]](https://newsapi.org/v2/top-headlines?country=in&apiKey=5f69434d32434ea8bdb16b347f71cca2)
+- [ ] Minecraft `Maze` to chase mobs like cat-creeper, dog-skeleton [Maze Phobia](https://www.youtube.com/watch?v=q97Y5-V0wBk)
 
 <br>
 
